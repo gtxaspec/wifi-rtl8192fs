@@ -1,0 +1,5 @@
+config RTL8192FS
+	tristate "Realtek 8192F SDIO WiFi"
+	depends on SDIO
+	---help---
+	  Help message of RTL8192FS
